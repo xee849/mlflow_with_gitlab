@@ -2,10 +2,7 @@ import mlflow
 from mlflow import MlflowClient
 import os
 
-#token = 'glpat-xs7YZSxymiciPyDoXqP8'
-#uri = 'https://gitlab.com/api/v4/projects/55563514/ml/mlflow'
-#os.environ['MLFLOW_TRACKING_TOKEN'] = token
-#os.environ['MLFLOW_TRACKING_URI'] = uri
+
 
 
 class Mlflow_client_gitlab_server:
